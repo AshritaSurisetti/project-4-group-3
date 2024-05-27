@@ -7,7 +7,7 @@ Project 4 - Group 3
 
 ### INTRODUCTION
 In the rapidly evolving landscape of e-commerce, understanding customer behavior and efficiently categorising products are pivotal for enhancing user experience and optimising inventory management. 
-Our project aims to address these challenges through a comprehensive analysis and a robust machine learning model.
+Our project aims to address these challenges through a comprehensive analysis and a robust machine-learning model.
 
 ### PROJECT OVERVIEW
 
@@ -29,31 +29,38 @@ Our project aims to address these challenges through a comprehensive analysis an
 
 Overview of data processing:
 
-![alt text](image.png)
+![image](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/18fcc5fb-5496-4a11-9553-a02dcbebd146)
+
 
 ### EXPLORATORY DATA ANALYSIS
 
 1. Key Performance Indicators (KPIs)
-![alt text](image-2.png)
+
+![image-2](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/d66f58f4-39bc-4b4b-9d96-3bbd84593a30)
+
 
 2. Top Products and Categories
 
-![alt text](image-8.png)
+<img width="314" alt="image-8" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/b4f98bfc-3c00-45db-b8d3-2f55b67925c9">
+
 
 3. Shopper Behaviour
 
-![alt text](image-9.png)
+<img width="113" alt="image-9" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/bc70df6a-1a09-4ae4-bd34-94bbb395a9e2">
 
-![alt text](image-11.png)
+<img width="238" alt="image-11" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/c75d73b2-541a-45bf-af3a-2ea17c62b1f4">
+
 
 4. Sales Analysis
 
-![alt text](image-10.png)
+<img width="238" alt="image-11" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/f4224ae4-de31-439a-813a-a173046ae029">
+
 
 5. Analysis by hour of the day, day of the week, and day of the month.
 Identified peak times for user activity.
 
-![alt text](image-6.png)
+![image-6](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/f207d2ce-3d63-4169-b990-a592aa4ee905)
+
 
 ## MACHINE LEARNING 
 
@@ -84,30 +91,34 @@ Identified peak times for user activity.
 - Split the data into train and test sets using “train_test_split” function.
 - Used RandomForestClassifier model and trained it. The classification report is shown in the image below indicating potential overfitting issue.
 
-![alt text](image-12.png)
+![image-12](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/27ae05b3-2424-4e6e-9dae-e575d2d38eb6)
+
 
 - Plotted learning_curve to check if this is an overfitting issue as below and the training curve is a straigh line indicating that the model isn't learning well from the training data and training and validation curves are not following the trend. So, the next step is to optimise the model.
 
-![alt text](image-13.png)
+![image-13](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/4734426f-8b30-452e-95e9-cf0ac918c904)
+
 
 **Hyperparameter Tuning**
 
 - Manually adjusted hyperparameters like max_depth, min_samples_split to reduce overfitting and accuracy is 89% with low recall and f1-scores indicating there is stil a room for improvement.
 
-![alt text](image-14.png)
+![image-14](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/10e2b7f8-15ed-4896-81f4-82f4dccc18f8)
+
  
 
 - Employed GridSearchCV for automatic hyperparameter optimisation and the final accuracy is 95% with improved recall and f1-scores as shown below.
 
-![alt text](image-15.png)
+![image-15](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/cbdac799-b1be-4004-bfdb-4dd74a9e515e)
+
 
 - Plotted learning curve again to check the model performance.
 
-![alt text](image-16.png)
+![image-16](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/16e3c5c9-ae54-424d-a6aa-48ef100ac2e5)
 
-**Analysis:** From the learning curve, it is evedent that learning and validation curves are following the same trend indicating that the model is performing well on both train and test sets, it is neither overfitting or underfitting.
+**Analysis:** From the learning curve, it is evident that learning and validation curves are following the same trend indicating that the model is performing well on both train and test sets, it is neither overfitting nor underfitting.
 
-Also, RandomForestClassifier model is performing well with accuracy and precision at 95%, recall and f1-scores at ~96%.
+Also, RandomForestClassifier model is performing well with accuracy and precision at 95%, recall, and f1-scores at ~96%.
 
 ## MACHINE LEARNING MODEL - 2
 
@@ -124,13 +135,15 @@ Also, RandomForestClassifier model is performing well with accuracy and precisio
 
 **Identifying the important features using Heatmap**
 
-![alt text](image-17.png)
+![image-17](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/74ea0d54-e8c8-4702-b5fd-6ba19234e096)
+
 
 **Model Training and Evaluation**
 - Data Preparation for Machine Learning
 - Model Training and Evaluation - Trained 3 models as shown below
 
-![alt text](image-19.png)
+![image-19](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/e4b7c73e-c046-48ea-8070-a508f1965ae6)
+
 
 - Feature Importance Analysis
 - Grid Search for Hyperparameter Tuning
@@ -138,8 +151,7 @@ Also, RandomForestClassifier model is performing well with accuracy and precisio
 
 - Overall results of all 3 models
 
-![alt text](image-20.png)
-
+![image-18](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/006d33d4-420f-4485-9af6-0ce193599835)
 
 ## CONCLUSION 
 
