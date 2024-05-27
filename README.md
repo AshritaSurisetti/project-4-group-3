@@ -44,7 +44,7 @@ Overview of data processing:
 
  ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/1.%20Shopper%20Behaviour.jpeg)
 
-2. Time Analysis visitor Actions
+3. Time Analysis visitor Actions
 
  •	We observed that visitor actions were highest from Friday to Sunday each week.
  
@@ -54,7 +54,7 @@ Overview of data processing:
   
  ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/2.%20Time%20Analysis.jpeg)
 
-3. Top Brand and Product Categories
+4. Top Brand and Product Categories
 
    •	The top three brands with the most user actions were Apple, Samsung, and Xiaomi.
    
@@ -62,7 +62,7 @@ Overview of data processing:
 
  ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/3.%20Brand_CategoryAnalysis.jpeg)
 
-4. Sales Analysis
+5. Sales Analysis
    
  •	We concentrated on the top three brands in terms of actual purchases: Apple, Samsung, and Xiaomi.
  
@@ -73,12 +73,6 @@ Overview of data processing:
  •	In terms of sales revenue, Apple saw a substantial increase in November, largely driven by the resale of the MacBook Pro
 
  ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/4.%20Sales%20Analysis.jpeg)
-
-6. Analysis by hour of the day, day of the week, and day of the month.
-Identified peak times for user activity.
-
-![image-6](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/f207d2ce-3d63-4169-b990-a592aa4ee905)
-
 
 ## MACHINE LEARNING 
 
