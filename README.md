@@ -42,6 +42,8 @@ Overview of data processing:
 
  The shopper behaviour data includes three types of user actions: viewed products, added to cart, and purchases  
 
+ ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/4.%20Sales%20Analysis.jpeg)
+
 <img width="113" alt="image-9" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/bc70df6a-1a09-4ae4-bd34-94bbb395a9e2">
 
 <img width="238" alt="image-11" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/c75d73b2-541a-45bf-af3a-2ea17c62b1f4">
