@@ -38,18 +38,17 @@ Overview of data processing:
 
 ![image-2](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/d66f58f4-39bc-4b4b-9d96-3bbd84593a30)
 
-
-2. Top Products and Categories
-
-<img width="314" alt="image-8" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/b4f98bfc-3c00-45db-b8d3-2f55b67925c9">
-
-
 3. Shopper Behaviour
+
+ The shopper behaviour data includes three types of user actions: viewed products, added to cart, and purchases  
 
 <img width="113" alt="image-9" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/bc70df6a-1a09-4ae4-bd34-94bbb395a9e2">
 
 <img width="238" alt="image-11" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/c75d73b2-541a-45bf-af3a-2ea17c62b1f4">
 
+2. Top Products and Categories
+
+<img width="314" alt="image-8" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/b4f98bfc-3c00-45db-b8d3-2f55b67925c9">
 
 4. Sales Analysis
 
