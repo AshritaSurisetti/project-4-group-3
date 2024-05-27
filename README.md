@@ -38,26 +38,43 @@ Overview of data processing:
 
 ![image-2](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/d66f58f4-39bc-4b4b-9d96-3bbd84593a30)
 
-3. Shopper Behaviour
+2. Shopper Behaviour
 
  The shopper behaviour data includes three types of user actions: viewed products, added to cart, and purchases  
 
- ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/4.%20Sales%20Analysis.jpeg)
+ ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/1.%20Shopper%20Behaviour.jpeg)
 
-<img width="113" alt="image-9" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/bc70df6a-1a09-4ae4-bd34-94bbb395a9e2">
+2. Time Analysis visitor Actions
 
-<img width="238" alt="image-11" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/c75d73b2-541a-45bf-af3a-2ea17c62b1f4">
+ •	We observed that visitor actions were highest from Friday to Sunday each week.
+ 
+ •	In terms of **monthly trends**, the highest visitor actions were recorded mid-month during 2019.
+ 
+ •	When we analyzed shopper activity by **time of day**, the peak hours were from 6 am to 6 pm
+  
+ ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/2.%20Time%20Analysis.jpeg)
 
-2. Top Products and Categories
+3. Top Brand and Product Categories
 
-<img width="314" alt="image-8" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/b4f98bfc-3c00-45db-b8d3-2f55b67925c9">
+   •	The top three brands with the most user actions were Apple, Samsung, and Xiaomi.
+   
+   •	We identified the top 10 categories and brands, which highlighted the most popular products among shoppers
+
+ ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/3.%20Brand_CategoryAnalysis.jpeg)
 
 4. Sales Analysis
+   
+ •	We concentrated on the top three brands in terms of actual purchases: Apple, Samsung, and Xiaomi.
+ 
+ •	Apple and Samsung were neck-to-neck in product count most months, followed closely by Xiaomi.
+ 
+ •	The average price analysis showed a significant spike for Apple in November due to the release of new apple product. ( MacBook Pro 15.1) 
+ 
+ •	In terms of sales revenue, Apple saw a substantial increase in November, largely driven by the resale of the MacBook Pro
 
-<img width="238" alt="image-11" src="https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/f4224ae4-de31-439a-813a-a173046ae029">
+ ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/4.%20Sales%20Analysis.jpeg)
 
-
-5. Analysis by hour of the day, day of the week, and day of the month.
+6. Analysis by hour of the day, day of the week, and day of the month.
 Identified peak times for user activity.
 
 ![image-6](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/f207d2ce-3d63-4169-b990-a592aa4ee905)
