@@ -214,9 +214,6 @@ The very low MSE and high R² indicate that the Random Forest model fits the dat
 - Kaggle
 https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store/data
 
-- ChatGPT
-https://chatgpt.com/?oai-dm=1
-
 - StackOverflow
 https://stackoverflow.com/
 
