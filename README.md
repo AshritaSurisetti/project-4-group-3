@@ -38,13 +38,13 @@ Overview of data processing:
 
 ![image-2](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/d66f58f4-39bc-4b4b-9d96-3bbd84593a30)
 
-2. Shopper Behaviour
+**2. Shopper Behaviour**
 
  The shopper behaviour data includes three types of user actions: viewed products, added to cart, and purchases  
 
  ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/1.%20Shopper%20Behaviour.jpeg)
 
-3. Time Analysis visitor Actions
+**3. Time Analysis visitor Actions**
 
  •	We observed that visitor actions were highest from Friday to Sunday each week.
  
@@ -54,7 +54,7 @@ Overview of data processing:
   
  ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/2.%20Time%20Analysis.jpeg)
 
-4. Top Brand and Product Categories
+**4. Top Brand and Product Categories**
 
    •	The top three brands with the most user actions were Apple, Samsung, and Xiaomi.
    
@@ -62,7 +62,7 @@ Overview of data processing:
 
  ![image](https://github.com/AshritaSurisetti/project-4-group-3/blob/main/Images/3.%20Brand_CategoryAnalysis.jpeg)
 
-5. Sales Analysis
+**5. Sales Analysis**
    
  •	We concentrated on the top three brands in terms of actual purchases: Apple, Samsung, and Xiaomi.
  
