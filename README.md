@@ -165,6 +165,28 @@ Also, RandomForestClassifier model is performing well with accuracy and precisio
 
 ![image-18](https://github.com/AshritaSurisetti/project-4-group-3/assets/147963279/006d33d4-420f-4485-9af6-0ce193599835)
 
+#Optimization steps
+
+1-Using 0.0025 (1 quarter of a % of the dataset)
+
+2-Heatmap analysis to determine most significant fetures
+
+3-Using Pipeline amongst 3 models to find top 2 models
+
+4-Feature performance analysis for all models
+
+5-Refining Features and reducing numbers of fetures 
+
+6-Grid search for top 2 models using refined set of features to find best hyperparameters for each  
+
+7-Increasing the sample size to 22% of the dataset using stratified sampling based on "Visitor_Action", preserving the distribution (a factor of 10% used to achieve the sample that was 22% of the original, the increase was from the stratified conditions set)
+
+8-Using the Best set of parameters with each of the top 2 models with the larger sample size to improve accuracy.
+
+#In each step of the 2-steps out of 3-steps optimization the acuracy of top 2 models increased with RandomForrest by 2% and GradientBoosting by over 10%
+
+#The labeled outputs are in the "Output" Folder of the Repo for comparison
+
 ## CONCLUSION 
 
 **Most Efficient Model:**
